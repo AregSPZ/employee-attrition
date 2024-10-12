@@ -1,4 +1,4 @@
-# Employee Attrition
+### Employee Attrition
 
 The project in this repository aims to address employee attrition by predicting if an employee is unsatisfied with their job and likely to leave, along with suggesting a new salary that could retain the employee.
 
