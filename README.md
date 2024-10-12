@@ -10,6 +10,7 @@ The primary goal is to reduce employee turnover by accurately predicting dissati
 
 # Models Used
 Stochastic Gradient Descent Classifier (scikit-learn's SGDClassifier): Used to predict if an employee is unsatisfied and likely to leave.
+
 Linear Support Vector Machine Regressor (scikit-learn's LinearSVR): Based on the classifier's prediction, this model suggests a new salary to retain the employee.
 
 # Results
