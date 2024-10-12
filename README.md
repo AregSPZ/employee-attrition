@@ -13,5 +13,7 @@ Stochastic Gradient Descent Classifier (scikit-learn's SGDClassifier): Used to p
 
 Linear Support Vector Machine Regressor (scikit-learn's LinearSVR): Based on the classifier's prediction, this model suggests a new salary to retain the employee.
 
+The choice is justified by the fact that SVMs perform great in small and medium sized datasets with a variety of features.
+
 # Results
 0.6 f1 score for classification, and ~0.1 RMSE for regression (with target variable and predictions being normalized).
